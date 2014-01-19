@@ -12,8 +12,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "target-dir": "BD/Bundle/TapatalkBundle",
     "autoload": {
-        "psr-4": { "BD\\Bundle\\TapatalkBundle": "" }
+        "psr-4": { "BD\\Bundle\\TapatalkBundle\\": "" }
     }
 }
