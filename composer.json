@@ -1,0 +1,19 @@
+{
+    "name": "bdunogier/tapatalk-bundle",
+    "description": "Framework agnostic implementation of the Tapatalk API for Symfony 2",
+    "require": {
+        "bdunogier/xmlrpcbundle": "~2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bertrand Dunogier",
+            "email": "bertrand.dunogier@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "target-dir": "BD/Bundle/TapatalkBundle",
+    "autoload": {
+        "psr-4": { "BD\\Bundle\\TapatalkBundle": "" }
+    }
+}
